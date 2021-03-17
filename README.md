@@ -5,3 +5,5 @@ The NYC CitiBike Data covers information about data recorded in August 2019. In 
 To create visualizations for this project a csv file was download and imported into the Pandas Python Library. The tripduration datatype was changed to a datetime datatype. A updated csv file was then exported. 
 ## NYC Citi Bike Data:
 https://www.citibikenyc.com
+## Tableau Link
+

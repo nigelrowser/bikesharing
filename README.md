@@ -6,4 +6,4 @@ To create visualizations for this project a csv file was download and imported i
 ## NYC Citi Bike Data:
 https://www.citibikenyc.com
 ## Tableau Link
-[Link Here] (https://public.tableau.com/views/NYCCitiBikeDataDashboard/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Link Here](https://public.tableau.com/views/NYCCitiBikeDataDashboard/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)

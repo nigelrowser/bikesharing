@@ -20,7 +20,9 @@ Analysis shows trips taken by customer type  based hour and gender
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 32 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/customertrip.png">
 
-<img width="500" alt="Screen Shot 2021-03-16 at 11 11 50 PM" src="https://user-images.githubusercontent.com/74877648/111412546-f523d900-86b2-11eb-8465-6def4e159443.png">
+Shows the utilization of each bike based on amount of mintues.
+
+<img width="500" alt="Screen Shot 2021-03-16 at 11 11 50 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/bikeutilization.png">
 
 
 

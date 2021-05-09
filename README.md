@@ -4,9 +4,13 @@ The NYC CitiBike Data covers information about data recorded in August 2019. In 
 ## Project Details
 To create visualizations for this project a csv file was download and imported into the Pandas Python Library. The tripduration datatype was changed to a datetime datatype. A updated csv file was then exported. 
 
+Analysis shows how long customers rented out bikes.
+
 <img width="500" alt="Screen Shot 2021-03-16 at 11 10 26 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/checkouttime1.png">
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 10 46 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/checkouttime2.png">
+
+Trips analysis shows the most popular times for bike usage.
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 10 57 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/tripsanalysis1.png">
 

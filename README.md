@@ -13,6 +13,7 @@ To create visualizations for this project a csv file was download and imported i
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 10 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/tripsanalysis2.png">
 
 Customer analysis compare the amount of trips taken by
+
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 21 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/customeranalysis.png.png">
 
 This visualization shows the amount of bike repairs based on bike id. 

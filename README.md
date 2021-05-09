@@ -6,7 +6,7 @@ To create visualizations for this project a csv file was download and imported i
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 10 26 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/checkouttime1.png">
 
-<img width="500" alt="Screen Shot 2021-03-16 at 11 10 46 PM" src="https://user-images.githubusercontent.com/74877648/111412185-51d2c400-86b2-11eb-8e3f-7ce84e786d61.png">
+<img width="500" alt="Screen Shot 2021-03-16 at 11 10 46 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/checkouttime2.png">
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 10 57 PM" src="https://user-images.githubusercontent.com/74877648/111412225-69aa4800-86b2-11eb-88d7-07a290af6ec8.png">
 

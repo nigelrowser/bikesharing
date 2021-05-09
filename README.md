@@ -12,8 +12,8 @@ To create visualizations for this project a csv file was download and imported i
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 10 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/tripsanalysis2.png">
 
-This visualization shows usertype data based on a weekday time frame.
-<img width="500" alt="Screen Shot 2021-03-16 at 11 11 21 PM" src="https://user-images.githubusercontent.com/74877648/111412268-7e86db80-86b2-11eb-9c3b-1baaf01313e7.png">
+Customer analysis compare the amount of trips taken by
+<img width="500" alt="Screen Shot 2021-03-16 at 11 11 21 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/customeranalysis.png.png">
 
 This visualization shows the amount of bike repairs based on bike id. 
 

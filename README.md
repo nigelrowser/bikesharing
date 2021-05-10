@@ -16,11 +16,11 @@ Trips analysis shows the most popular times for bike usage.
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 10 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/tripsanalysis2.png">
 
-Customer analysis compare the amount of trips taken by
+Customer analysis compare the amount of trips taken by subscribers versus new customers.
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 21 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/customeranalysis.png">
 
-Analysis shows trips taken by customer type  based hour and gender
+Analysis shows trips taken by customer type  based hour and gender.
 
 <img width="500" alt="Screen Shot 2021-03-16 at 11 11 32 PM" src="https://github.com/nigelrowser/bikesharing/blob/main/customertrip.png">
 

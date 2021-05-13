@@ -33,4 +33,4 @@ Shows the utilization of each bike based on amount of mintues.
 ## NYC Citi Bike Data:
 [Link Here](https://www.citibikenyc.com)
 ## Tableau Link
-[Link Here](https://public.tableau.com/views/NYCCitiBikeDataDashboard/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Link Here](https://public.tableau.com/profile/nigel.rowser#!/vizhome/NYCCitiBikeDataDashboard/Citi-BikeStory)
